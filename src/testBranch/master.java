@@ -6,6 +6,7 @@ public class master {
 
 		// TODO Auto-generated constructor stub12346 7
 
+
 	}
 	
 	public void test(){
