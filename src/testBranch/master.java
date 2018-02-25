@@ -9,7 +9,7 @@ public class master {
 	}
 	
 	public void test(){
-		//1
+		//12
 	}
 	
 	public void test2(){}
